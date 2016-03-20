@@ -4,7 +4,7 @@
     "target_path": "device/lge/g2-common"
   },
   {
-    "repository": "TeamExodus/vendor_lge_d801",
+    "repository": "usmcamgrimm/vendor_lge_d801",
     "target_path": "vendor/lge/d801"
   },
   {
